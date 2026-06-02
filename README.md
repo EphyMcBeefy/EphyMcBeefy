@@ -1,4 +1,4 @@
-- Hi, I’m @EphyMcBeefy
+- Hi, I’m @EphraimLorenz
 
 <!---
 EphyMcBeefy/EphyMcBeefy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
